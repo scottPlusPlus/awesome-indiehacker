@@ -3,15 +3,18 @@ A curated list of tools and resources for indie hackers
 
 ## 🎧 Podcasts
 
-- [Indie Hackers](https://share.transistor.fm/s/0723051d)
-- [Indie Bites](https://indiebites.com/)
-- [Indie Makers](https://anchor.fm/indiemakers)
-- [Software Social](https://share.transistor.fm/s/c7c55be2)
-- [My First Million](https://mfmpod.com/)
-- [The Bootstrapped Founder](https://thebootstrappedfounder.com/podcast/)
-- [The SaaS Podcast](https://saasclub.io/saas-podcast/)
-- [Build Your SaaS](https://saas.transistor.fm/)
-- [$1M Solo Business With Alex West](https://pod.link/1644673441)
+* [Micro Conf](https://microconf.com/podcast)
+  * Example comment
+  * Tags: Saas, Tactical
+* [Indie Hackers](https://share.transistor.fm/s/0723051d)
+* [Indie Bites](https://indiebites.com/)
+* [Indie Makers](https://anchor.fm/indiemakers)
+* [Software Social](https://share.transistor.fm/s/c7c55be2)
+* [My First Million](https://mfmpod.com/)
+* [The Bootstrapped Founder](https://thebootstrappedfounder.com/podcast/)
+* [The SaaS Podcast](https://saasclub.io/saas-podcast/)
+* [Build Your SaaS](https://saas.transistor.fm/)
+* [$1M Solo Business With Alex West](https://pod.link/1644673441)
 
 ## 🌐 Communities
 
