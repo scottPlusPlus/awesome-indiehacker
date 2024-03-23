@@ -5,8 +5,10 @@ A curated list of tools and resources for indie hackers
 
 * [Micro Conf](https://microconf.com/podcast)
   * Example comment
-  * Tags: Saas, Tactical
+  * Tags: Saas, Tactical, tagX
 * [Indie Hackers](https://share.transistor.fm/s/0723051d)
+  * A good podcast
+  * Tags: Transistor, tagX
 * [Indie Bites](https://indiebites.com/)
 * [Indie Makers](https://anchor.fm/indiemakers)
 * [Software Social](https://share.transistor.fm/s/c7c55be2)
